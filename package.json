@@ -1,0 +1,19 @@
+{
+  "name": "desktop-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ELHADRINadia/TGCC---ElectronJs-ReactsJs-mongoDb-PARTIE-I.git"
+  },
+  "author": "ELHADRI Nadia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ELHADRINadia/TGCC---ElectronJs-ReactsJs-mongoDb-PARTIE-I/issues"
+  },
+  "homepage": "https://github.com/ELHADRINadia/TGCC---ElectronJs-ReactsJs-mongoDb-PARTIE-I#readme"
+}
